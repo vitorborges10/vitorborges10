@@ -2,9 +2,7 @@
 
 - 🔭 Cursando supperior em Ciência da Computação | 1° semestre
 - 🌱 Estou aprendendo Python e Front-end.
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
-
+- ⚡ Apaixonado por ***programação*** e por ***webdesign***
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
