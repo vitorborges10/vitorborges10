@@ -1,4 +1,4 @@
-## Olá :) !!! Eu sou o Vítor Assis 👋 
+## Olá!!! Eu sou o Vítor Assis, desenvolvedor junior e aspirante às inovações da T.I :)
 - 🔭 Cursando supperior em ***Ciência da Computação*** | 1° semestre
 - 🌱 Estou aprendendo ***Python*** e ***Front-end***
 - ⚡ Apaixonado por ***programação*** e por ***webdesign***
