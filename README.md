@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vítor Assis 👋 
 
-- 🔭 Cursando supperior em Ciência da Computação | 1° semestre
-- 🌱 Estou aprendendo Python e Front-end.
+- 🔭 Cursando supperior em ***Ciência da Computação*** | 1° semestre
+- 🌱 Estou aprendendo ***Python*** e ***Front-end***
 - ⚡ Apaixonado por ***programação*** e por ***webdesign***
 
 <div style="display: inline_block"><br>
