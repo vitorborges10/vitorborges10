@@ -3,6 +3,8 @@
 - 🌱 Estou aprendendo ***Python*** e ***Front-end***
 - ⚡ Apaixonado por ***programação*** e por ***webdesign***
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assisvt&show_icons=true&theme=transparent)
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
