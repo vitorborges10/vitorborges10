@@ -2,7 +2,6 @@
 - 💻 Cursando superior em ***Ciência da Computação*** | 2° semestre 
 - 🌱 Tenho enfoque em ***Python***, ***HTML***, ***CSS*** e ***JavaScript***
 - 🛠 Construindo conhecimento acerca de ***SQL*** e de ***UX/UI design***
-- ⚡ Apaixonado por ***programação*** e por ***webdesign***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=assisvt&show_icons=truebg_color=00000000)
 <div style="display: inline_block"><br>
