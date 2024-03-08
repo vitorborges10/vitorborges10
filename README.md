@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o Vítor Assis (@assisvt), desenvolvedor jr. e aspirante às inovações da T.I 
-- 💻 Cursando superior em ***Ciência da Computação*** | 2° semestre 
+- 💻 Cursando superior em ***Ciência da Computação*** | 3° semestre 
 - 🌱 Tenho enfoque em ***Python***, ***HTML***, ***CSS*** e ***JavaScript***
 - 🛠 Construindo conhecimento acerca de ***SQL*** e de ***UX/UI design***
 
