@@ -8,7 +8,6 @@
   <img align="center" alt="vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="vitor-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/823656648508702720/1090807701556170812/rjrjrj.png">
 </div>
 
 ##
