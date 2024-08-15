@@ -1,7 +1,6 @@
 ## Olá!! Eu sou o Vítor Assis (@assisvt), desenvolvedor jr. e aspirante às inovações da T.I 
-- 💻 Cursando superior em ***Ciência da Computação*** | 3° semestre 
-- 🌱 Tenho enfoque em ***Python***, ***HTML***, ***CSS*** e ***JavaScript***
-- 🛠 Construindo conhecimento acerca de ***SQL*** e de ***UX/UI design***
+- 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB | 4° semestre 
+- 🌱 Tenho enfoque em ***Python***, ***Java*** e ***SQL***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=assisvt&show_icons=truebg_color=00000000)
 <div style="display: inline_block"><br>
