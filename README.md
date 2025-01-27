@@ -1,5 +1,5 @@
-## Olá!! Eu sou o Vítor Assis, desenvolvedor jr. e aspirante às inovações da T.I 
-- 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB | 4° semestre 
+## Olá!! Eu sou o Vítor Borges, desenvolvedor jr. e aspirante às inovações da T.I 
+- 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB | 5° semestre 
 - 🌱 Tenho enfoque em ***Python***, ***Java*** e ***SQL***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=assisvt&show_icons=truebg_color=00000000)
