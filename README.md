@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Vítor Borges, desenvolvedor jr. e aspirante às inovações da T.I 
+## Olá!! Eu sou o Vitor Borges, desenvolvedor jr. e aspirante às inovações da T.I 
 - 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB | 5° semestre 
 - 🌱 Tenho enfoque em ***Python***, ***Java*** e ***SQL***
 
