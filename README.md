@@ -1,6 +1,6 @@
-## Olá!! Eu sou o Vitor Borges, desenvolvedor jr. e aspirante às inovações da T.I 
+## Olá!! Eu sou o Vitor, desenvolvedor jr. e aspirante às inovações da T.I 
 - 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB | 5° semestre 
-- 🌱 Tenho enfoque em ***Python***, ***Java*** e ***SQL***
+- 🌱 Tenho enfoque em ***Python*** e ***SQL***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vitorborges10&show_icons=truebg_color=00000000)
 <div style="display: inline_block"><br>
