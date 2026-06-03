@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Vitor, desenvolvedor jr. e aspirante às inovações da T.I 
 - 💻 Cursando superior em ***Ciência da Computação*** pelo CEUB 
-- 🌱 Tenho enfoque em **Dados***, ***Python*** e ***SQL***
+- 🌱 Tenho enfoque em **Dados**, ***Python*** e ***SQL***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vitorborges10&show_icons=truebg_color=00000000)
 <div style="display: inline_block"><br>
