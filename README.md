@@ -25,8 +25,8 @@ Tenho interesse em **Dados, Python e SQL**, buscando transformar conhecimento t�
 ### 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorborges10&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorborges10&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vitorborges10&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorborges10&layout=compact&theme=transparent"/>
 </div>
 
 ### 📫 Onde me encontrar
