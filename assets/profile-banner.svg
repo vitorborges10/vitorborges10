@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Vitor Borges — Dados e Negócios de TI</title>
+<desc id="desc">Desenvolvedor Júnior. Ciência da Computação. Foco em Dados, Business Intelligence e Análise de Negócios de TI.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f1c"/><stop offset="1" stop-color="#132c45"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7dd3fc" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="358" rx="20" fill="none" stroke="#294359"/>
+<rect x="54" y="48" width="38" height="4" rx="2" fill="url(#accent)"/>
+<text x="106" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#67e8f9">DADOS · BUSINESS INTELLIGENCE · NEGÓCIOS</text>
+<text x="50" y="142" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#f8fafc">Vitor Borges</text>
+<text x="54" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#cbd5e1">Tecnologia com visão analítica e de negócio.</text>
+<text x="54" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#94a3b8">Desenvolvedor Júnior · Ciência da Computação</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#cbd5e1">
+<rect x="54" y="267" width="113" height="34" rx="17" fill="#12283c" stroke="#2c4b63"/><text x="76" y="289">ANÁLISE</text>
+<rect x="180" y="267" width="137" height="34" rx="17" fill="#12283c" stroke="#2c4b63"/><text x="199" y="289">PROCESSOS</text>
+<rect x="330" y="267" width="133" height="34" rx="17" fill="#12283c" stroke="#2c4b63"/><text x="350" y="289">SOLUÇÕES</text>
+</g>
+<g transform="translate(817 65)">
+<rect width="316" height="236" rx="16" fill="#0b1423" stroke="#31506c"/>
+<circle cx="23" cy="23" r="4" fill="#38bdf8"/><circle cx="39" cy="23" r="4" fill="#2dd4bf"/><circle cx="55" cy="23" r="4" fill="#64748b"/>
+<text x="292" y="27" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2" fill="#94a3b8">DATA / INSIGHT</text>
+<path d="M20 44H296 M30 91H286 M30 131H286 M30 171H286" stroke="#203448"/>
+<g fill="#1a3d59"><rect x="36" y="157" width="27" height="39" rx="4"/><rect x="83" y="136" width="27" height="60" rx="4"/><rect x="130" y="145" width="27" height="51" rx="4"/><rect x="177" y="113" width="27" height="83" rx="4"/><rect x="224" y="86" width="27" height="110" rx="4"/></g>
+<path d="M49 141L96 116L143 124L190 93L237 65" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#2dd4bf"><circle cx="49" cy="141" r="4"/><circle cx="96" cy="116" r="4"/><circle cx="143" cy="124" r="4"/><circle cx="190" cy="93" r="4"/><circle cx="237" cy="65" r="4"/></g>
+<text x="30" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2" fill="#94a3b8">DADOS → CONTEXTO → DECISÃO</text>
+</g>
+</svg>
+

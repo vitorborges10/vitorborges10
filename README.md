@@ -70,7 +70,7 @@ Mapeamento de processos, BPMN, levantamento de requisitos e histórias de usuár
 
 Programação e SQL como base para conectar dados e soluções. Visão de produto, usabilidade e comunicação entre as perspectivas técnica e de negócio.
 
-### Ecossistema de interesse
+### Ferramentas para Análise e Visualização de Dados
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
@@ -113,3 +113,4 @@ Projetos, colaboração e boas conversas sobre tecnologia são bem-vindos.
 **[LinkedIn](https://www.linkedin.com/in/vitorborges10/)** &nbsp; · &nbsp; **[E-mail](mailto:vitor.apborges@gmail.com)**
 
 </div>
+
