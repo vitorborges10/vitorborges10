@@ -1,87 +1,96 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Vitor Borges — Desenvolvedor Júnior | Dados e Análise de Negócios de TI | Ciência da Computação no CEUB">
+  <img src="assets/profile-banner.svg" width="100%" alt="Vitor Borges — Dados, Business Intelligence e Análise de Negócios de TI">
 </p>
 
 <p align="center">
-  <strong>Dados para compreender. Tecnologia para gerar valor.</strong><br>
-  Interesse em análise de dados, Business Intelligence e análise de negócios de TI.
+  <strong>Visão de negócio. Raciocínio analítico. Base técnica.</strong><br>
+  Conectando dados, processos e tecnologia à resolução de problemas.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitorborges10/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:vitor.apborges@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
-  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Meus_projetos-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus projetos"></a>
+  <a href="mailto:vitor.apborges@gmail.com"><img src="https://img.shields.io/badge/Contato-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
+  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Portfólio-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"></a>
+</p>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#competências-técnicas">Tecnologias</a> ·
+  <a href="#dados--negócios">Dados &amp; negócios</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#atividade-no-github">GitHub</a>
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou **desenvolvedor júnior** e estudante de **Ciência da Computação no CEUB**. Meu foco de carreira está em **dados e análise de negócios de TI**, conectando informações, processos e necessidades do negócio para apoiar decisões e propor soluções.
+Sou **Vitor Borges**, desenvolvedor júnior e estudante de **Ciência da Computação no CEUB**, com foco de carreira em **Dados, Business Intelligence e Análise de Negócios de TI**.
 
-- 🎓 **Formação:** Ciência da Computação — CEUB.
-- 💻 **Base técnica:** domínio de Python, SQL, JavaScript, HTML e CSS.
-- 📊 **Interesses:** dados, Business Intelligence, indicadores e melhoria de processos.
-- 🌱 **Evolução contínua:** abertura a novas linguagens, ferramentas e desafios.
+Tenho domínio de **Python, SQL, JavaScript, HTML e CSS**. Essa base conecta programação, organização de informações e construção de interfaces ao meu interesse por soluções orientadas às necessidades do negócio.
 
-Quero aproximar a visão técnica das necessidades de quem utiliza uma solução. Minha base em desenvolvimento complementa esse objetivo, e sigo aberto a novas tecnologias conforme os desafios de cada projeto.
+Meu ponto de partida é entender o problema: quais perguntas precisam ser respondidas, quais dados são relevantes e como a tecnologia pode contribuir. Escolho ferramentas de acordo com o contexto e mantenho abertura a diferentes linguagens e plataformas.
 
-## 🛠️ Minha base técnica
+## Competências técnicas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL, representado pelo ícone do MySQL"> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL — ícone representativo de banco de dados"> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML"> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS">
 </p>
 
-<p align="center"><strong>Python · SQL · JavaScript · HTML · CSS</strong></p>
+<p align="center"><strong>Python &nbsp; · &nbsp; SQL &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; HTML &nbsp; · &nbsp; CSS</strong></p>
 
-Essas tecnologias compõem minha base atual. Estou aberto a ampliar esse repertório conforme as necessidades de cada projeto.
+- **Python** — programação, automação de tarefas e manipulação de dados.
+- **SQL** — consultas, filtros, agregações e relacionamento entre dados.
+- **JavaScript** — lógica de programação e interatividade em aplicações web.
+- **HTML e CSS** — estruturação de páginas e apresentação de interfaces.
 
-## 📊 Dados, processos e negócios
+## Dados & Negócios
 
-Quero desenvolver minha trajetória na conexão entre **análise de dados e necessidades de negócio**. Meus interesses de aprofundamento incluem:
+Meu direcionamento profissional reúne três frentes complementares:
 
-**📈 Análise de dados & Business Intelligence**  
-Exploração de dados, indicadores e dashboards para apoiar decisões e acompanhar resultados.
+### 01 &nbsp; Análise & Inteligência de negócios
 
-**🗄️ SQL & Modelagem de dados**  
-Organização, consulta e modelagem de dados, ampliando a base para análises consistentes.
+**Dados → Informação → Decisão**
 
-**🔄 Processos & Melhoria contínua**  
-Mapeamento de processos, BPMN e identificação de oportunidades de melhoria e automação.
+Análise exploratória, qualidade de dados, indicadores e dashboards. Foco em transformar perguntas de negócio em análises claras e comunicar resultados com contexto.
 
-**🎯 Requisitos & Soluções de TI**  
-Compreensão de necessidades, levantamento de requisitos e conexão entre problemas de negócio e soluções tecnológicas.
+### 02 &nbsp; Processos & Requisitos
 
-**💬 Comunicação & Storytelling com dados**  
-Apresentação de análises com clareza, contexto e foco nas perguntas de quem precisa decidir.
+**Necessidade → Processo → Solução**
 
-### Ferramentas que quero aprofundar
+Mapeamento de processos, BPMN, levantamento de requisitos e histórias de usuário. Interesse em compreender demandas e identificar oportunidades de melhoria e automação.
+
+### 03 &nbsp; Tecnologia & Valor
+
+**Problema → Implementação → Resultado**
+
+Programação e SQL como base para conectar dados e soluções. Visão de produto, usabilidade e comunicação entre as perspectivas técnica e de negócio.
+
+### Ecossistema de interesse
 
 <p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
 </p>
 
-*Ferramentas de interesse para ampliar minha formação em análise e visualização de dados.*
+## Projetos
 
-**Também quero aprofundar:** modelagem de processos com BPMN, histórias de usuário e gestão ágil de produtos e projetos.
+Código, estudos e soluções que fazem parte da minha trajetória em tecnologia. Explore os repositórios para conhecer meu trabalho.
 
-## 🚀 Projetos e prática
+<p>
+  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Explorar_projetos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos no GitHub"></a>
+</p>
 
-Nos meus repositórios, compartilho projetos e estudos que fazem parte da minha trajetória em tecnologia.
-
-<a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Explorar_repositórios_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios no GitHub"></a>
-
-## ⚡ Atividade no GitHub
+## Atividade no GitHub
 
 <p align="center">
   <a href="https://github.com/vitorborges10">
@@ -96,13 +105,11 @@ Nos meus repositórios, compartilho projetos e estudos que fazem parte da minha 
 
 <div align="center">
 
-### 🤝 Vamos construir algo juntos?
+### Vamos conectar dados a boas decisões?
 
-Tenho interesse em oportunidades em **dados, Business Intelligence e análise de negócios de TI**,<br>
-colaboração em projetos e troca de experiências.
+Aberto a oportunidades em **Dados, BI e Análise de Negócios de TI**.<br>
+Projetos, colaboração e boas conversas sobre tecnologia são bem-vindos.
 
-**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/vitorborges10/)**<br>
-[vitor.apborges@gmail.com](mailto:vitor.apborges@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/vitorborges10/)** &nbsp; · &nbsp; **[E-mail](mailto:vitor.apborges@gmail.com)**
 
 </div>
-
