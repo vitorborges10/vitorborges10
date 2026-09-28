@@ -1,41 +1,55 @@
-# Olá! Eu sou o Vitor 👋
+<div align="center">
 
-💻 **Desenvolvedor Jr.** e estudante de **Ciência da Computação** pelo CEUB.
+# Olá, eu sou o Vitor Borges 👋
 
-Tenho interesse em **Dados, Python e SQL**, buscando transformar conhecimento técnico em soluções práticas e inovadoras.
+**Desenvolvedor Júnior · Ciência da Computação no CEUB**
 
-### 🚀 Sobre mim
+Python, SQL e dados como foco de aprendizado e desenvolvimento.
 
-* 🎓 Cursando **Ciência da Computação**
-* 💻 Desenvolvedor Jr.
-* 🐍 Foco em **Python**
-* 🗄️ Interesse em **Dados e SQL**
-* 🌱 Sempre buscando aprender e evoluir na área de Tecnologia da Informação
+<a href="https://www.linkedin.com/in/vitorborges10/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn de Vitor Borges">
+</a>
+<a href="mailto:vitor.apborges@gmail.com">
+  <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge" alt="Enviar e-mail para Vitor Borges">
+</a>
 
-### 🛠️ Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### 📊 GitHub Stats
+---
 
-<div>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vitorborges10&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorborges10&layout=compact&theme=transparent"/>
-</div>
+## Sobre mim
 
-### 📫 Onde me encontrar
+Sou **desenvolvedor júnior** e estudante de **Ciência da Computação no CEUB**. Tenho interesse em entender como o desenvolvimento de software e os dados podem ajudar a resolver problemas reais.
 
-<div>
-  <a href="https://www.linkedin.com/in/vitorborges10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:vitor.apborges@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+Meu foco está em aprofundar conhecimentos em **Python e SQL**, aplicando o que aprendo em projetos práticos. Uso este espaço para compartilhar projetos, registrar minha evolução e explorar novas tecnologias.
+
+## Tecnologias
+
+**Foco principal**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL">
+</p>
+
+**Também estudo e utilizo**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3">
+</p>
+
+## Projetos e aprendizado
+
+Nos meus repositórios, compartilho minha trajetória de aprendizado em programação. Meus principais interesses são:
+
+- **Python:** desenvolvimento de soluções práticas e automação de tarefas.
+- **SQL e bancos de dados:** organização, consulta e exploração de dados.
+- **Dados:** transformação de informações em análises úteis.
+
+[Explorar meus repositórios →](https://github.com/vitorborges10?tab=repositories)
+
+## Vamos conversar?
+
+Tem interesse em trocar ideias sobre desenvolvimento, dados ou oportunidades na área de tecnologia? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/vitorborges10/) ou por [e-mail](mailto:vitor.apborges@gmail.com).
