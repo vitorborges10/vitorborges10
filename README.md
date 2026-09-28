@@ -9,9 +9,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitorborges10/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:vitor.apborges@gmail.com"><img src="https://img.shields.io/badge/Contato-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vitor.apborges%40gmail.com"><img src="https://img.shields.io/badge/Gmail-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Escrever para Vitor no Gmail"></a>
   <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Portfólio-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"></a>
 </p>
+
+<p align="center"><a href="mailto:vitor.apborges@gmail.com">vitor.apborges@gmail.com</a></p>
 
 <p align="center">
   <a href="#sobre-mim">Sobre mim</a> ·
@@ -122,5 +124,6 @@ Entre em contato para conversar sobre projetos e colaboração.
 **[LinkedIn](https://www.linkedin.com/in/vitorborges10/)** &nbsp; · &nbsp; **[E-mail](mailto:vitor.apborges@gmail.com)**
 
 </div>
+
 
 
