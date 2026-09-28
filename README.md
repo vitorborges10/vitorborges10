@@ -1,76 +1,87 @@
-<div align="center">
-
-# Vitor Borges
-
-### Desenvolvedor Júnior · Software & Dados
-
-Estudante de **Ciência da Computação no CEUB**.<br>
-Interesse em construir soluções, explorar dados e transformar informação em decisões.
-
-<p>
-  <a href="https://www.linkedin.com/in/vitorborges10/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn de Vitor Borges">
-  </a>
-  <a href="mailto:vitor.apborges@gmail.com">
-    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge" alt="Enviar e-mail para Vitor Borges">
-  </a>
-  <a href="https://github.com/vitorborges10?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios">
-  </a>
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Vitor Borges — Desenvolvedor Júnior | Dados e Análise de Negócios de TI | Ciência da Computação no CEUB">
 </p>
 
-</div>
+<p align="center">
+  <strong>Dados para compreender. Tecnologia para gerar valor.</strong><br>
+  Interesse em análise de dados, Business Intelligence e análise de negócios de TI.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitorborges10/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:vitor.apborges@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
+  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Meus_projetos-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus projetos"></a>
+</p>
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Sou **desenvolvedor júnior** e estudante de **Ciência da Computação no CEUB**, com interesse em **desenvolvimento de software, análise de dados e automação**. Gosto de entender o problema por trás de uma demanda e explorar como a tecnologia pode ajudar a resolvê-lo.
+Sou **desenvolvedor júnior** e estudante de **Ciência da Computação no CEUB**. Meu foco de carreira está em **dados e análise de negócios de TI**, conectando informações, processos e necessidades do negócio para apoiar decisões e propor soluções.
 
-Tenho domínio de **Python, SQL, JavaScript, HTML e CSS** e sigo ampliando meu repertório para trabalhar com novas ferramentas e diferentes desafios. Busco escolher tecnologias de acordo com o problema, combinando aprendizado contínuo e aplicação prática.
+- 🎓 **Formação:** Ciência da Computação — CEUB.
+- 💻 **Base técnica:** domínio de Python, SQL, JavaScript, HTML e CSS.
+- 📊 **Interesses:** dados, Business Intelligence, indicadores e melhoria de processos.
+- 🌱 **Evolução contínua:** abertura a novas linguagens, ferramentas e desafios.
 
-Neste perfil, compartilho meus projetos e minha evolução em software e dados.
+Quero aproximar a visão técnica das necessidades de quem utiliza uma solução. Minha base em desenvolvimento complementa esse objetivo, e sigo aberto a novas tecnologias conforme os desafios de cada projeto.
 
-## Tecnologias e conhecimentos
+## 🛠️ Minha base técnica
 
-Estas são as tecnologias que domino e que compõem minha base atual:
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL, representado pelo ícone do MySQL"> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3">
 </p>
 
-Estou aberto a aprender outras linguagens, bibliotecas e plataformas conforme as necessidades de cada projeto.
+<p align="center"><strong>Python · SQL · JavaScript · HTML · CSS</strong></p>
 
-## Dados e resolução de problemas
+Essas tecnologias compõem minha base atual. Estou aberto a ampliar esse repertório conforme as necessidades de cada projeto.
 
-Tenho interesse em todo o caminho entre os dados brutos e uma informação útil. Na área de dados, busco aprofundar minha atuação em:
+## 📊 Dados, processos e negócios
 
-- **Preparação e qualidade de dados:** organização, limpeza e transformação para tornar as análises mais confiáveis.
-- **SQL e bancos de dados:** consultas, relacionamentos e extração de informações relevantes.
-- **Análise exploratória:** investigação de padrões, tendências e perguntas que os dados podem ajudar a responder.
-- **Visualização e indicadores:** comunicação de resultados para apoiar a tomada de decisão.
-- **Automação:** uso de programação para simplificar tarefas repetitivas e processos de tratamento de dados.
+Quero desenvolver minha trajetória na conexão entre **análise de dados e necessidades de negócio**. Meus interesses de aprofundamento incluem:
 
-## Ferramentas de interesse em dados
+**📈 Análise de dados & Business Intelligence**  
+Exploração de dados, indicadores e dashboards para apoiar decisões e acompanhar resultados.
 
-Para ampliar minha atuação na área, tenho interesse em aprofundar conhecimentos nas seguintes ferramentas:
+**🗄️ SQL & Modelagem de dados**  
+Organização, consulta e modelagem de dados, ampliando a base para análises consistentes.
 
-- **Pandas e NumPy:** manipulação, transformação e análise de dados com Python.
-- **Jupyter Notebook:** exploração de dados e documentação de análises.
-- **Matplotlib e Seaborn:** visualização de distribuições, padrões e resultados.
-- **Power BI e Excel:** análise de indicadores, relatórios e dashboards.
+**🔄 Processos & Melhoria contínua**  
+Mapeamento de processos, BPMN e identificação de oportunidades de melhoria e automação.
 
-## Projetos
+**🎯 Requisitos & Soluções de TI**  
+Compreensão de necessidades, levantamento de requisitos e conexão entre problemas de negócio e soluções tecnológicas.
 
-Meus repositórios reúnem projetos e estudos da minha trajetória em tecnologia. São um espaço para aplicar conhecimentos, experimentar abordagens e evoluir na resolução de problemas.
+**💬 Comunicação & Storytelling com dados**  
+Apresentação de análises com clareza, contexto e foco nas perguntas de quem precisa decidir.
 
-**[Conheça meus projetos →](https://github.com/vitorborges10?tab=repositories)**
+### Ferramentas que quero aprofundar
 
-## Atividade no GitHub
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
+</p>
+
+*Ferramentas de interesse para ampliar minha formação em análise e visualização de dados.*
+
+**Também quero aprofundar:** modelagem de processos com BPMN, histórias de usuário e gestão ágil de produtos e projetos.
+
+## 🚀 Projetos e prática
+
+Nos meus repositórios, compartilho projetos e estudos que fazem parte da minha trajetória em tecnologia.
+
+<a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Explorar_repositórios_→-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios no GitHub"></a>
+
+## ⚡ Atividade no GitHub
 
 <p align="center">
   <a href="https://github.com/vitorborges10">
@@ -85,11 +96,13 @@ Meus repositórios reúnem projetos e estudos da minha trajetória em tecnologia
 
 <div align="center">
 
-**Vamos conversar sobre tecnologia, projetos e oportunidades?**
+### 🤝 Vamos construir algo juntos?
 
-Tenho interesse em oportunidades em **desenvolvimento de software e dados**, além de colaborar em projetos e trocar experiências.
+Tenho interesse em oportunidades em **dados, Business Intelligence e análise de negócios de TI**,<br>
+colaboração em projetos e troca de experiências.
 
-[LinkedIn](https://www.linkedin.com/in/vitorborges10/) · [vitor.apborges@gmail.com](mailto:vitor.apborges@gmail.com)
+**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/vitorborges10/)**<br>
+[vitor.apborges@gmail.com](mailto:vitor.apborges@gmail.com)
 
 </div>
 
