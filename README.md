@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Visão de negócio. Raciocínio analítico. Base técnica.</strong><br>
-  Conectando dados, processos e tecnologia à resolução de problemas.
+  <strong>Dados · Business Intelligence · Análise de Negócios de TI</strong><br>
+  Python e SQL como base. Projetos como demonstração prática.
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 <p align="center">
   <a href="#sobre-mim">Sobre mim</a> ·
   <a href="#competências-técnicas">Tecnologias</a> ·
-  <a href="#dados--negócios">Dados &amp; negócios</a> ·
   <a href="#projetos">Projetos</a> ·
+  <a href="#dados--negócios">Dados &amp; negócios</a> ·
   <a href="#atividade-no-github">GitHub</a>
 </p>
 
@@ -27,9 +27,9 @@
 
 Sou **Vitor Borges**, desenvolvedor júnior e estudante de **Ciência da Computação no CEUB**, com foco de carreira em **Dados, Business Intelligence e Análise de Negócios de TI**.
 
-Tenho domínio de **Python, SQL, JavaScript, HTML e CSS**. Essa base conecta programação, organização de informações e construção de interfaces ao meu interesse por soluções orientadas às necessidades do negócio.
+Tenho domínio de **Python, SQL, JavaScript, HTML e CSS**. Nos meus projetos acadêmicos, essa base aparece em análise exploratória, classificação de dados e interfaces conectadas a APIs.
 
-Meu ponto de partida é entender o problema: quais perguntas precisam ser respondidas, quais dados são relevantes e como a tecnologia pode contribuir. Escolho ferramentas de acordo com o contexto e mantenho abertura a diferentes linguagens e plataformas.
+Meu interesse está em entender necessidades de negócio, organizar informações e comunicar resultados que apoiem decisões. Tenho abertura a diferentes ferramentas e plataformas, conforme o problema e o contexto de cada projeto.
 
 ## Competências técnicas
 
@@ -48,47 +48,56 @@ Meu ponto de partida é entender o problema: quais perguntas precisam ser respon
 - **JavaScript** — lógica de programação e interatividade em aplicações web.
 - **HTML e CSS** — estruturação de páginas e apresentação de interfaces.
 
-## Dados & Negócios
-
-Meu direcionamento profissional reúne três frentes complementares:
-
-### 01 &nbsp; Análise & Inteligência de negócios
-
-**Dados → Informação → Decisão**
-
-Análise exploratória, qualidade de dados, indicadores e dashboards. Foco em transformar perguntas de negócio em análises claras e comunicar resultados com contexto.
-
-### 02 &nbsp; Processos & Requisitos
-
-**Necessidade → Processo → Solução**
-
-Mapeamento de processos, BPMN, levantamento de requisitos e histórias de usuário. Interesse em compreender demandas e identificar oportunidades de melhoria e automação.
-
-### 03 &nbsp; Tecnologia & Valor
-
-**Problema → Implementação → Resultado**
-
-Programação e SQL como base para conectar dados e soluções. Visão de produto, usabilidade e comunicação entre as perspectivas técnica e de negócio.
-
 ### Ferramentas para Análise e Visualização de Dados
 
+Bibliotecas aplicadas no meu [projeto de classificação com KNN](https://github.com/vitorborges10/Knn_implementacao_1):
+
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 </p>
 
 ## Projetos
 
-Código, estudos e soluções que fazem parte da minha trajetória em tecnologia. Explore os repositórios para conhecer meu trabalho.
+### 01 &nbsp; Classificação de dados com KNN
+
+**Análise exploratória · Preparação de dados · Aprendizado supervisionado**
+
+Projeto acadêmico de classificação de espécies do conjunto **Iris** a partir das medidas das flores. O código reúne exploração visual com Seaborn, separação entre treino e teste, padronização dos atributos e classificação com scikit-learn.
+
+**O que está implementado:** avaliação por acurácia, matriz de confusão e relatório de classificação, além de um gráfico comparando diferentes valores de `k`.
+
+`Python` `Pandas` `Seaborn` `Matplotlib` `scikit-learn`
+
+**[Explorar código →](https://github.com/vitorborges10/Knn_implementacao_1)**
+
+---
+
+### 02 &nbsp; Spotify Wrapped
+
+**Integração de API · Dados musicais · Interface interativa**
+
+Projeto integrador desenvolvido **em equipe**, inspirado no Spotify Wrapped. A aplicação conecta-se à Spotify Web API para apresentar informações musicais do usuário em uma experiência visual.
+
+**O que o projeto apresenta:** playlists, músicas mais ouvidas e uma composição visual de álbuns, com autenticação no serviço e navegação em React.
+
+`JavaScript` `React` `HTML` `CSS` `Spotify Web API`
+
+**[Explorar projeto e capturas de tela →](https://github.com/vitorborges10/spotify-wrapped)**
 
 <p>
-  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Explorar_projetos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos no GitHub"></a>
+  <a href="https://github.com/vitorborges10?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_os_repositórios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios"></a>
 </p>
+
+## Dados & Negócios
+
+Meu direcionamento profissional conecta três áreas:
+
+- **Análise e BI:** indicadores, dashboards e comunicação de resultados para apoiar decisões.
+- **Processos e requisitos:** compreensão de demandas, mapeamento com BPMN e identificação de melhorias.
+- **Soluções de TI:** uso de programação e dados para aproximar necessidades de negócio e implementação.
 
 ## Atividade no GitHub
 
@@ -105,12 +114,13 @@ Código, estudos e soluções que fazem parte da minha trajetória em tecnologia
 
 <div align="center">
 
-### Vamos conectar dados a boas decisões?
+### Vamos conversar?
 
 Aberto a oportunidades em **Dados, BI e Análise de Negócios de TI**.<br>
-Projetos, colaboração e boas conversas sobre tecnologia são bem-vindos.
+Entre em contato para conversar sobre projetos e colaboração.
 
 **[LinkedIn](https://www.linkedin.com/in/vitorborges10/)** &nbsp; · &nbsp; **[E-mail](mailto:vitor.apborges@gmail.com)**
 
 </div>
+
 
